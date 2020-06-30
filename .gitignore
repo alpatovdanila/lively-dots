@@ -10,6 +10,8 @@
 /coverage
 
 # production
+/dist
+.cache
 /build
 
 # misc
